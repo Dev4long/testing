@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="app">
        <div className= "app_body">
-        hello
         <Sidebar />
         <Chat />
        </div>
