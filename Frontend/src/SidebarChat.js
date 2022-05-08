@@ -9,8 +9,8 @@ function SidebarChat() {
         <FontAwesomeIcon  className= "roomAvatar" icon={faUser}></FontAwesomeIcon>
         
         <div className= "sidebarChat_info">
-            <h2 className= "roomName">Room Name</h2>
-            <p>this is the last message</p>
+            <h2 className= "roomName">WhatsApp</h2>
+            <p>Chatterbox</p>
         </div>
         
     </div>

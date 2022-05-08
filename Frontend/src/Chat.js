@@ -28,7 +28,7 @@ function Chat({messages}) {
         <FontAwesomeIcon className="chatAvatar" icon={faUser}></FontAwesomeIcon> 
       
         <div className= "chat_headerInfo">
-          <h3 className= "chatHeader">Room Name</h3>
+          <h3 className= "chatHeader">WhatsThat</h3>
           <p className = "chatP">last seen at ...</p>
         </div> 
 
