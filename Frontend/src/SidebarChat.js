@@ -9,7 +9,7 @@ function SidebarChat() {
         <FontAwesomeIcon  className= "roomAvatar" icon={faUser}></FontAwesomeIcon>
         
         <div className= "sidebarChat_info">
-            <h2 className= "roomName">WhatsApp</h2>
+            <h2 className= "roomName">WhatsThat</h2>
             <p>Chatterbox</p>
         </div>
         
